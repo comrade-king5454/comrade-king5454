@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *python* and *php*
 
-- 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/comradedking5454)
+- 👨‍💻 All of my projects are available at (github.com/comradedking5454)
 
 - 📫 How to reach me *yadavadarsh667@gmail.com*
  
